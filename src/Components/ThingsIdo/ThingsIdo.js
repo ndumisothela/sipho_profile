@@ -34,7 +34,6 @@ const ThingsIdo = () => {
         <img className="workout_image" src={gym} alt="workout_image" />
         <div className="invest_title">
           <h2>WORKOUT</h2>
-
           <p>
             Health body health mind, I need to always stay fit to produce the
             best results posssible.{" "}

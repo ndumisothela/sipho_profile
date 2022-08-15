@@ -5,7 +5,9 @@
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   color: #06283d;
   font-family: 400;
-  visibility: sticky;
+  position: sticky;
+  top: 0;
+  z-index: 100;
 }
 .active {
   margin: 10px;
