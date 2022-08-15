@@ -1,0 +1,33 @@
+.landing_page_container {
+  display: flex;
+  font-family: "poppins";
+  padding-bottom: 10px;
+  border-bottom: 4px solid #06283d;
+}
+.greeting_container {
+  font-size: 30px;
+}
+.welcome_text {
+  border-bottom: 4px solid #06283d;
+  color: gray;
+  margin: 0 20px 0 50px;
+  white-space: 0;
+}
+.text {
+  font-size: 18px;
+  font-weight: 300;
+  margin: 20px 20px 0 50px;
+}
+.btn_contact_me {
+  padding: 10px;
+  margin: 30px 20px 0 50px;
+  background-color: #a10035;
+  color: #87805e;
+  border-radius: 35px;
+  border: none;
+}
+.self_image {
+  border: 4px solid #87805e;
+  width: 530px;
+  height: 500px;
+}

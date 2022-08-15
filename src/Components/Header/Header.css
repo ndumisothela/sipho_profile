@@ -1,0 +1,26 @@
+.header_container {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  height: 250px;
+  width: 100%;
+  background-color: #06283d;
+  font-family: sans-serif;
+  color: #87805e;
+  margin-top: 40px;
+}
+.profile_picture {
+  height: 250px;
+  width: 200px;
+}
+.header_name {
+  font-size: 50px;
+  font-weight: 600;
+}
+.header_title {
+  font-family: "poppins";
+  font-size: medium;
+  margin-top: -30px;
+  font-weight: 300;
+}

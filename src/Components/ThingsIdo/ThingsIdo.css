@@ -1,0 +1,39 @@
+.things_I_do_container {
+  overflow: hidden;
+  background-image: url("./../../Components/Assets/bg2.png");
+  background-size: cover;
+  padding-bottom: 20px;
+  border-bottom: 4px solid #06283d;
+}
+.investment_plan {
+  display: flex;
+}
+.things_title {
+  justify-content: center;
+  text-align: center;
+  font-family: "poppins";
+  font-size: 30px;
+  color: #06283d;
+  border-bottom: 2px solid#06283d;
+  margin: 0 450px 0 450px;
+}
+.invest_image {
+  width: 80%;
+  height: 50vh;
+  border: 5px solid #06283d;
+  margin-left: 50px;
+}
+.invest_title {
+  color: #06283d;
+  font-family: "poppins";
+  margin: 10px 300px 5px 20px;
+}
+.workout_plan {
+  display: flex;
+}
+.workout_image {
+  width: 30%;
+  height: 50vh;
+  border: 5px solid #06283d;
+  margin: 10px 0 0 50px;
+}

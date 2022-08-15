@@ -1,0 +1,12 @@
+.nav_container {
+  display: flex;
+  justify-content: center;
+  background-color: #a47e3b;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: #06283d;
+  font-family: 400;
+  visibility: sticky;
+}
+.active {
+  margin: 10px;
+}
