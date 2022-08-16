@@ -1,0 +1,35 @@
+.work_history_container {
+  text-align: center;
+  font-family: "poppins";
+  border-bottom: 4px solid #06283d;
+  padding-bottom: 20px;
+  background-color: white;
+}
+.wh_title {
+  justify-content: center;
+  font-family: "poppins";
+  font-size: 30px;
+  color: #a47e3b;
+  border-bottom: 2px solid #a47e3b;
+  margin: 0 450px 0 450px;
+}
+.work_sipho {
+  display: flex;
+  margin-left: -150px;
+}
+.work_cover {
+  margin: 0;
+}
+.psg_cover {
+  margin-top: 20px;
+  display: flex;
+}
+.psg_image {
+  margin-right: 50px;
+  border: 4px solid #a47e3b;
+}
+.psg_text {
+  justify-content: flex-start;
+  text-align: left;
+  color: #a47e3b;
+}
