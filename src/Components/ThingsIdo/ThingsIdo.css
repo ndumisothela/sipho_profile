@@ -17,23 +17,21 @@
   border-bottom: 2px solid#06283d;
   margin: 0 450px 0 450px;
 }
-.invest_image {
-  width: 80%;
-  height: 50vh;
+.image {
+  width: 200px;
+  height: 20vh;
   border: 5px solid #06283d;
-  margin-left: 50px;
+  margin: 10px 0 0 50px;
 }
 .invest_title {
   color: #06283d;
   font-family: "poppins";
-  margin: 10px 300px 5px 20px;
+  margin: 10px 150px 5px 20px;
 }
 .workout_plan {
   display: flex;
 }
-.workout_image {
-  width: 30%;
-  height: 50vh;
-  border: 5px solid #06283d;
-  margin: 10px 0 0 50px;
+
+.dj_plan {
+  display: flex;
 }

@@ -11,7 +11,7 @@ const LandingPage = () => {
             <strong>Lives</strong> in Gauteng.
           </p>
           <p>
-            <strong>Works</strong> everywhere.
+            <strong>Works</strong> for PSG.
           </p>
         </div>
         <span>

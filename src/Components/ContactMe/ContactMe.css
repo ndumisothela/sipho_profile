@@ -1,0 +1,52 @@
+.contact_me_container {
+  padding-bottom: 55px;
+  border-bottom: 4px solid #06283d;
+}
+.form {
+  justify-content: center;
+  text-align: center;
+}
+.contact_title {
+  justify-content: center;
+  text-align: center;
+  font-family: "poppins";
+  font-size: 30px;
+  color: #06283d;
+  border-bottom: 2px solid #06283d;
+  margin: 0 450px 0 450px;
+}
+.mb-3 {
+  justify-content: center;
+  text-align: center;
+  margin-top: 20px;
+  font-family: "poppins";
+}
+.email {
+  width: 500px;
+  height: 50px;
+  padding-left: 10px;
+  border: 2px solid #06283d;
+}
+.form-name {
+  width: 500px;
+  height: 50px;
+  padding-left: 10px;
+  border: 2px solid #06283d;
+}
+.form-message {
+  width: 500px;
+  height: 200px;
+  padding-left: 10px;
+  font-size: 18px;
+  border: 2px solid #06283d;
+}
+.btn-submit {
+  margin-top: 20px;
+  width: 150px;
+  height: 50px;
+  border-radius: 30px;
+  font-family: "poppins";
+  font-size: 30px;
+  font-weight: 600;
+  background-color: #a47e3b;
+}
