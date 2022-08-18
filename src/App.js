@@ -7,6 +7,7 @@ import NavBar from "./Components/NavBar/NavBar";
 import ThingsIdo from "./Components/ThingsIdo/ThingsIdo";
 import WorkHistory from "./Components/WorkHistory/WorkHistory";
 import Home from "./Components/Home/Home";
+import Footer from "./Components/Footer/Footer";
 
 const App = () => {
   return (
@@ -32,6 +33,7 @@ const App = () => {
           </Route>
         </Switch>
       </main>
+      <Footer />
     </div>
   );
 };
