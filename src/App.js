@@ -6,6 +6,7 @@ import LandingPage from "./Components/LandingPage/LandingPage";
 import NavBar from "./Components/NavBar/NavBar";
 import ThingsIdo from "./Components/ThingsIdo/ThingsIdo";
 import WorkHistory from "./Components/WorkHistory/WorkHistory";
+import Home from "./Components/Home/Home";
 
 const App = () => {
   return (
@@ -14,6 +15,9 @@ const App = () => {
       <NavBar />
       <main>
         <Switch>
+          <Route path="/home">
+            <Home />
+          </Route>
           <Route path="/about-me">
             <LandingPage />
           </Route>

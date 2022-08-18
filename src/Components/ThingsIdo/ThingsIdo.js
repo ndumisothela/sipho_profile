@@ -35,10 +35,7 @@ const ThingsIdo = () => {
         <img className="image" src={djsparty} alt="dj_image" />
         <div className="invest_title">
           <h2>Deejay</h2>
-          <p>
-            Health body health mind, I need to always stay fit to produce the
-            best results posssible.{" "}
-          </p>
+          <p>I have a passion for MUSIC. </p>
         </div>
       </div>
     </div>

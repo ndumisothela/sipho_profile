@@ -1,0 +1,15 @@
+.home_cover {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  align-content: center;
+  background-image: url("./../Assets/BeFunky.jpg");
+  top: -700;
+  background-size: cover;
+  padding-bottom: 400px;
+}
+.welcome {
+  font-size: 50px;
+  color: #a47e3b;
+}
