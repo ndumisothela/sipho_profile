@@ -8,7 +8,7 @@ const LandingPage = () => {
       <div className="greeting_container">
         <div className="welcome_text">
           <p>
-            <strong>Lives</strong> in Gauteng.
+            <strong>Lives</strong> in Johannesburg, Gauteng.
           </p>
           <p>
             <strong>Works</strong> for PSG.
