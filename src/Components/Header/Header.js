@@ -1,6 +1,5 @@
 import React from "react";
 import "./Header.css";
-import siphoN from "./../../Components/Assets/siphoN.png";
 
 const Header = () => {
   return (

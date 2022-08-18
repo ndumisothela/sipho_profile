@@ -2,15 +2,15 @@
   display: flex;
   justify-content: center;
   background-color: #a47e3b;
-  color: #06283d;
   position: sticky;
   top: 0;
   z-index: 100;
 }
 .active {
   margin: 10px;
-  font-size: medium;
+  font-size: 15px;
   font-family: 500;
+  color: #06283d;
   font-family: "poppins";
   text-decoration: none;
 }

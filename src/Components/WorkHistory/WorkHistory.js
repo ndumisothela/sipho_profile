@@ -46,7 +46,7 @@ const WorkHistory = () => {
                 Marketing - Business Development - Client engagement - financial
                 planning - client solutions building - account management -
                 investment and life products marketing investment and life
-                products marketing
+                products marketing.
               </p>
             </div>
           </div>
