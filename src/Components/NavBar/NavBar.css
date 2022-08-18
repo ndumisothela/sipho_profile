@@ -14,3 +14,8 @@
   font-family: "poppins";
   text-decoration: none;
 }
+.active:hover {
+  cursor: pointer;
+  color: #a10035;
+  text-decoration: underline;
+}
