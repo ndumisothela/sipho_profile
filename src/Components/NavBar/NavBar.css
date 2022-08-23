@@ -19,3 +19,8 @@
   color: #a10035;
   text-decoration: underline;
 }
+@media (max-width: 991px) {
+  .active {
+    font-size: 0.4rem;
+  }
+}

@@ -2,8 +2,8 @@
   margin: 0;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+@media (min-width: 780px) {
+  .App {
+    font-size: 3.5rem;
   }
 }

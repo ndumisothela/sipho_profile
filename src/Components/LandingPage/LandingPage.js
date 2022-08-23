@@ -23,7 +23,7 @@ const LandingPage = () => {
             and tenacious business development professional graduated from
             various institutions of higher learning with an acumen for numbers.
           </p>
-          <button className="btn_contact_me">Contact Me</button>
+          <button className="btn_contact_me">Learn more</button>
         </span>
       </div>
       <img className="self_image" src={land} alt="self_image" />

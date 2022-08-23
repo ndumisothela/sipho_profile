@@ -10,3 +10,8 @@
   color: grey;
   margin: 0;
 }
+@media (max-width: 991px) {
+  .creator {
+    font-size: x-small;
+  }
+}

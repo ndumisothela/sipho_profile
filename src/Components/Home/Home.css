@@ -13,3 +13,8 @@
   font-size: 50px;
   color: #a47e3b;
 }
+@media (max-width: 991px) {
+  .home_cover {
+    background-image: url("./../Assets/hj.jpg");
+  }
+}

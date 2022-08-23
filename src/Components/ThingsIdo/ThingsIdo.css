@@ -34,3 +34,19 @@
 .dj_plan {
   display: flex;
 }
+@media (max-width: 991px) {
+  .things_I_do_container {
+    background-image: none;
+  }
+  .image {
+    width: 70px;
+    height: 70px;
+  }
+  .things_title {
+    font-size: medium;
+  }
+  .invest_title {
+    font-size: 0.8rem;
+    -ms-layout-grid: inherit;
+  }
+}
