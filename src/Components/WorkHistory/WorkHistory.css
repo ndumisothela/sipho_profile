@@ -38,3 +38,8 @@
   color: #a47e3b;
   margin-right: 20px;
 }
+@media (max-width: 991px) {
+  .work_history_container {
+    font-size: 2.5rem;
+  }
+}
